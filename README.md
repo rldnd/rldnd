@@ -4,7 +4,7 @@
 - 🏫 Konkuk Univ. Computer Science and Engineering
 - 🏢 Fuseble (with Freelancer) - FE / Co-Founder (2021.08 ~ 2022.10)
 - 🏢 MayB (Sole Proprietorship) - FE / FE Tutor (2022.10 ~)
-- 🏢 WATA - FE Freelancer (2023.01 ~ )
+- 🏢 WATA - FE Project Lead (2023.01 ~ )
 
 
 ## Tech Stack
