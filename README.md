@@ -1,6 +1,9 @@
 # rldnd 👋
 ### FrontEnd Developer
 
+- I'm currently using React.js for 4 years
+- I’m currently learning Flutter
+
 ## Tech Stack
 ![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=white)
 ![Typescript Badge](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white)
