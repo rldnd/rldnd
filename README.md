@@ -1,12 +1,12 @@
 ## rldnd 👋
 ### FrontEnd Developer
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:gi981226@gmail.com)](mailto:gi981226@gmail.com)
 
+## Tech Stack
 ![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=white)
 ![Typescript Badge](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
----
+
 
 ![rldnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rldnd&count_private=true&show_icons=true&theme=radical)
 
