@@ -1,4 +1,4 @@
-## rldnd 👋
+# rldnd 👋
 ### FrontEnd Developer
 
 ## Tech Stack
