@@ -4,8 +4,7 @@
 - 🏫 Konkuk Univ. Computer Science and Engineering
 - 😄 FE Freelancer - (2020.11 ~ )
 - 🏢 Fuseble (with Freelancer) - FE / Co-Founder (2021.08 ~ 2022.10)
-- 🏢 MayB (Sole Proprietorship) - FE / FE Tutor (2022.10 ~)
-- 🏢 Cumuco - FE / APP (2023.05 ~ )
+- 🏢 Cumuco - FE / APP (2023.05 ~ 2023.11)
 
 
 ## Tech Stack
