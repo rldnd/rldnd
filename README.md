@@ -1,2 +1,2 @@
-# Kunn Lee (이기웅)
+# kiung-lee (이기웅)
 ### FrontEnd Engineer
